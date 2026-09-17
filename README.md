@@ -1,195 +1,69 @@
-<table>
-<tr>
-<td width="35%" align="center">
+# 👋 About Me
 
-<img src="YOUR_PROFILE_IMAGE_URL" width="220" style="border-radius: 50%;" />
+I'm a Frontend Developer focused on building modern, responsive, and user-friendly web applications.
 
-<br><br>
-
-<h2>Ali Farashiani</h2>
-
-<p>Frontend Developer</p>
-
-<p>
-  <a href="https://alifarashiani.ir">
-    🌐 Portfolio
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-</td>
-
-<td width="65%">
-
-# 👨‍💻 About Me
-
-I'm a **Frontend Developer** focused on building modern, responsive, and user-friendly web applications.
-
-- 💻 Focused on Frontend Development
-- ⚛️ Building applications with React
+- 💻 Frontend Developer
+- ⚛️ React Developer
 - 🌱 Continuously improving my JavaScript and React skills
-- 🎨 Interested in modern UI/UX and responsive web design
+- 🎨 Interested in modern UI/UX and responsive design
 - 🔧 Working with REST APIs and modern frontend tools
 - 🚀 Exploring Backend Development with Node.js and Express
 
-<br>
 
 # 🌐 Socials
 
-<p>
-  <a href="https://alifarashiani.ir">
-    <img src="https://img.shields.io/badge/Portfolio-alifarashiani.ir-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white" />
-  </a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://alifarashiani.ir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com)
 
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
 
-  <a href="https://instagram.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
-</p>
+# 💻 Tech Stack
 
-<br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/REACT-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/TAILWIND-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Vite](https://img.shields.io/badge/VITE-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-# 🛠️ Tech Stack
+![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/EXPRESS-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![MongoDB Compass](https://img.shields.io/badge/MONGODB%20COMPASS-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-### 🎨 Frontend
+![Git](https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,vite" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
-### 🔧 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,npm,vscode" />
-</p>
-
-### 📦 React Ecosystem
-
-<p>
-
-`React Router` · `React Query` · `React Hook Form` · `Axios` · `Redux Toolkit`
-
-</p>
-
-</td>
-</tr>
-</table>
-
----
 
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
----
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-
-<td width="50%">
-
 ### 💼 Freelancing Platform
 
-A full-stack freelancing platform connecting **project owners** with **freelancers**.
+Full-stack freelancing platform connecting project owners with freelancers.
 
-**Technologies**
+`React` `JavaScript` `Tailwind CSS` `Node.js` `Express.js` `MongoDB`
 
-`React` `JavaScript` `Tailwind CSS`  
-`Node.js` `Express.js` `MongoDB` `REST API`
-
-</td>
-
-<td width="50%">
 
 ### 🏨 Hotel Booking App
 
-A React-based hotel booking application with:
-
-- 🔎 Hotel Search
-- 📅 Date Selection
-- 📍 Location Features
-- 🏨 Hotel Information
-- 🎫 Booking Functionality
-
-**Technologies**
+React-based hotel booking application with search, date selection, location and booking functionality.
 
 `React` `Vite` `React Router` `Axios` `JSON Server`
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
 
 ### 🍔 Delino Restaurant
 
-A responsive food ordering application inspired by modern online food delivery platforms.
-
-**Technologies**
+Responsive food ordering application built with vanilla frontend technologies.
 
 `HTML` `CSS` `JavaScript`
-
-</td>
-
-<td width="50%">
-
-### 🌱 Currently Learning
-
-- ⚛️ Advanced React Development
-- 🔄 React Query & State Management
-- 🟢 Node.js & Express
-- 🍃 MongoDB
-- 🔐 Authentication & Authorization
-- 🔌 REST API Development
-- 🎨 Modern UI/UX
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🎯 What I Care About
-
-```text
-Clean Code
-Responsive Design
-Reusable Components
-Modern UI
-Good User Experience
-Scalable Architecture
-Continuous Learning
