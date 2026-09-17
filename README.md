@@ -13,8 +13,6 @@ I'm a Frontend Developer focused on building modern, responsive, and user-friend
 # 🌐 Socials
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://alifarashiani.ir)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com)
 
 
 # 💻 Tech Stack
@@ -36,7 +34,6 @@ I'm a Frontend Developer focused on building modern, responsive, and user-friend
 ![Git](https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 
 # 📊 GitHub Stats
