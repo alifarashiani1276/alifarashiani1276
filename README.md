@@ -2,14 +2,6 @@
 
 I'm a Frontend Developer focused on building modern, responsive, and user-friendly web applications.
 
-- 💻 Frontend Developer
-- ⚛️ React Developer
-- 🌱 Continuously improving my JavaScript and React skills
-- 🎨 Interested in modern UI/UX and responsive design
-- 🔧 Working with REST APIs and modern frontend tools
-- 🚀 Exploring Backend Development with Node.js and Express
-
-
 # 🌐 Socials
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://alifarashiani.ir)
