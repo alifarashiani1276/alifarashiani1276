@@ -53,6 +53,6 @@ React-based hotel booking application with search, date selection, location and 
 
 ### 🍔 Delino Restaurant
 
-Responsive food ordering application built with vanilla frontend technologies.
+A React-based restaurant app (Drlino) featuring food search, categorization by country and food type, a shopping cart, and a user profile editing page.
 
-`HTML` `CSS` `JavaScript`
+`React` `Vite` `React Router` `Axios` `JSON Server`
