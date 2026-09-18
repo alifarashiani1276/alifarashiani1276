@@ -5,7 +5,7 @@ I'm a Frontend Developer focused on building modern, responsive, and user-friend
 # 🌐 Socials
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://alifarashiani.ir)
-
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/AliFarashiani)
 
 # 💻 Tech Stack
 
@@ -27,37 +27,15 @@ I'm a Frontend Developer focused on building modern, responsive, and user-friend
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 
-
 # 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
-
 # 🚀 Featured Projects
 
-### 💼 Freelancing Platform
-
-Full-stack freelancing platform connecting project owners with freelancers.
-
-`React` `JavaScript` `Tailwind CSS` `Node.js` `Express.js` `MongoDB`
-
-
-### 🏨 Hotel Booking App
-
-React-based hotel booking application with search, date selection, location and booking functionality.
-
-`React` `Vite` `React Router` `Axios` `JSON Server`
-
-
-### 🍔 Delino Restaurant
-
-A React-based restaurant app (Drlino) featuring food search, categorization by country and food type, a shopping cart, and a user profile editing page.
-
-`React` `Vite` `React Router` `Axios` `JSON Server`
-
-### 🍔 ‌food-website & book-website
-
-"food-website" and "book-website" are sites built using vanilla JavaScript—without any frameworks—featuring search functionality, a shopping cart, product categorization, and user profile editing.
-`html` `css` `javascript` `meal api`
+- 💼 **Freelancing Platform** — Full-stack platform connecting project owners with freelancers. `React` `Tailwind CSS` `Node.js` `MongoDB`
+- 🏨 **Hotel Booking App** — Hotel search, date selection and booking. `React` `Vite` `JSON Server`
+- 🍔 **Delino Restaurant** — Food ordering app with search, categories, cart and profile editing. `React` `Vite` `JSON Server`
+- 📚 **food-website & book-website** — Vanilla JS sites with search, cart and categories. `HTML` `CSS` `JavaScript`
