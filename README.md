@@ -56,3 +56,8 @@ React-based hotel booking application with search, date selection, location and 
 A React-based restaurant app (Drlino) featuring food search, categorization by country and food type, a shopping cart, and a user profile editing page.
 
 `React` `Vite` `React Router` `Axios` `JSON Server`
+
+### 🍔 ‌food-website & book-website
+
+"food-website" and "book-website" are sites built using vanilla JavaScript—without any frameworks—featuring search functionality, a shopping cart, product categorization, and user profile editing.
+`html` `css` `javascript` `meal api`
